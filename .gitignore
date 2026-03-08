@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data (trop lourd pour git)
+data/
+
+# macOS
+.DS_Store
+
+# Ancien dossier submit
+submit/
